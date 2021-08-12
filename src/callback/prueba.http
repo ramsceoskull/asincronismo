@@ -1,0 +1,2 @@
+GET https://rickandmortyapi.com/api/character/
+GET https://rickandmortyapi.com/api/location/1
